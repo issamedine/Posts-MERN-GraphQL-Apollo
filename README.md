@@ -1,6 +1,6 @@
 # Posts-MERN-GraphQL-Apollo
 ```
-I will build a small posts app using GraphQL, Express, React, Hooks & Apollo.
+I created a small Posts app using GraphQL, Express, React, Hooks & Apollo.
 
 
 - How to run the project ?
